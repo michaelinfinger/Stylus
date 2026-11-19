@@ -2,6 +2,7 @@
 
 # Stylus
 Lightweight open-source Android productivity to-do/calendar app, primarily in Kotlin.
+
 [![License](https://img.shields.io/badge/license-GPL%203.0-blue?style=flat&logoSize=License)](LICENSE)
 
 </div>
