@@ -5,6 +5,8 @@ Lightweight open-source Android productivity to-do/calendar app, primarily in Ko
 
 </div>
 
+[![License](https://img.shields.io/badge/GPL%203.0?style=social)](LICENSE)
+
 ---
 
 ## Initial scope
