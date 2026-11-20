@@ -14,6 +14,8 @@ Lightweight open-source Android productivity to-do/calendar app, primarily in Ko
 ## Initial scope
 - An advanced to-do list that meshes with the calendar; tags, colors, icons, deadlines, etc.
 - An advanced calendar that meshes with the to-do list. tags, colors, icons, deadlines, etc.
+- Self-contained in SQL; no connection to servers needed or wanted
 
 ## Advanced scope (for now)
 - A widget for the calendar and list
+- Advanced analytics
