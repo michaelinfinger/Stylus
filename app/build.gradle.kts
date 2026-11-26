@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace "com.stylus"
+    namespace = "com.stylus"
     compileSdk = 35
 
     defaultConfig {
